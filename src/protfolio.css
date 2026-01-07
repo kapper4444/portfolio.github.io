@@ -6,7 +6,7 @@ body {
     color: #942c6f;
     margin: 0;
     padding: 0;
-    background-image: url('circuit.png');
+    background-image: url('../assets/circuit.png');
 }
 
 main {
